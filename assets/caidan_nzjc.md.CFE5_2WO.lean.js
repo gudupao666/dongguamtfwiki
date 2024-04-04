@@ -1,0 +1,1 @@
+import{_ as t,c as a,o,a4 as e}from"./chunks/framework.4aTu-Nia.js";const p=JSON.parse('{"title":"女装教程","description":"","frontmatter":{},"headers":[],"relativePath":"caidan/nzjc.md","filePath":"caidan/nzjc.md"}'),r={name:"caidan/nzjc.md"},n=e("",11),s=[n];function c(i,l,d,h,_,g){return o(),a("div",null,s)}const b=t(r,[["render",c]]);export{p as __pageData,b as default};
